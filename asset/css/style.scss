@@ -74,7 +74,7 @@ h1{
 
 #slider{
     padding-top: 50%;
-    background: url(/asset/img/hamburger.jpg) top center / cover no-repeat;
+    background: url(../img/hamburger.jpg) top center / cover no-repeat;
     position: relative;
     .text-content{
         position: absolute;
@@ -91,7 +91,7 @@ h1{
 
 #content{
     .item-img{
-        background: url(/asset/img/tablesetting2.jpg);
+        background: url(../img/tablesetting2.jpg);
         max-width: 100%;
         height: 600px;
     }
